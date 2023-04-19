@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-嗨，你好，这是我的个人学术主页，您可以在此看到我的一些学术相关内容。您也可以转跳到 [我的Blog](hrnew.notion.site),来看到更多信息。 
+嗨，你好，这是我的个人学术主页，您可以在此看到我的一些学术相关内容。您也可以转跳到 [我的Blog](http://hrnew.notion.site),来看到更多信息。 
 
 Name
 ======
